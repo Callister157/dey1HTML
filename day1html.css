@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    width:80%;
+    margin:20px auto;
+    font-family: Arial, sans-serif; 
+}
+
+header{
+    background: #e0a45f;
+    padding: 30px;
+    text-align: center;
+}
+
+nav{
+    background:#6996e4 ;
+    padding: 15px;
+    text-align: center;
+}
+
+main{
+    display:flex;
+    min-height: 300px;
+}
+
+.content{
+    flex:3;
+    background: #d57a7a;
+    padding: 40px;
+}
+
+.sidebar{
+    flex:1;
+    background: #77d55a;
+    padding:20px;
+}
+
+footer{
+    background: #e0a45f;
+    padding:20px;
+    text-align: center;
+}
