@@ -14,12 +14,14 @@ header{
     background: #e0a45f;
     padding: 30px;
     text-align: center;
+    border: 1px #d57d18;
 }
 
 nav{
     background:#6996e4 ;
     padding: 15px;
     text-align: center;
+    border: 1px #2064db;
 }
 
 main{
@@ -31,16 +33,19 @@ main{
     flex:3;
     background: #d57a7a;
     padding: 40px;
+    border: 1px #ca1919;
 }
 
 .sidebar{
     flex:1;
     background: #77d55a;
     padding:20px;
+    border: 1px #3cce0f;
 }
 
 footer{
     background: #e0a45f;
     padding:20px;
     text-align: center;
+    border: 1px #d57d18;
 }
